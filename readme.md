@@ -45,7 +45,7 @@ quote-guessing-game/
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone https://github.com/nautiyalSumit/quote-guessing-game
 cd quote-guessing-game
 ```
 
@@ -87,6 +87,10 @@ python main.py
     You got it right
     would you like to play again (y/n)?  --> 
 ```
+
+## Screenshots
+
+![Gameplay Screenshot](screenshot.png)
 
 ## How It Works
 
